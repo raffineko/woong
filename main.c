@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 int main(){
-  printf("%s","두번째 날ㅎ");
+  printf("%s","두번째 날ㅎㅎ");
   return 0;
 }
 // git log --online
